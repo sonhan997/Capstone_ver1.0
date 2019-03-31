@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OUE_PHA</string>
+    <string name="test">Test</string>
+    <string name="formula">Formula</string>
+    <string name="lesson">Lesson</string>
+    <string name="result">Result</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Team Capstone</string>
+    <string name="nav_header_subtitle">Capstone1Team@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
